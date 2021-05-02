@@ -1,0 +1,24 @@
+#
+#       ___ _                    _   ___          _                 _
+#      / __| |_  __ _ _ _ ___ __| | | _ ) __ _ __| |___ __  __ _ __| |__
+#      \__ \ ' \/ _` | '_/ -_) _` | | _ \/ _` / _| / / '_ \/ _` / _| / /
+#      |___/_||_\__,_|_| \___\__,_| |___/\__,_\__|_\_\ .__/\__,_\__|_\_\
+#                                                    |_|
+#
+
+# Shared Backpack
+# Version: 1.0
+# Created by: Miquiis
+# Discord: Miquiis#5920
+
+# Amount of time, in seconds, to save the backpack items.
+auto-save: 60
+
+backpack:
+  # Name of the GUI, when opening the backpack
+  title: "&6Shared Backpack"
+  # Size of the backpack, recommended to NOT to change this after being used. Items could be lost, so clear the backpack first.
+  # Sizes must be divisible by 9. It's a minecraft thing, *shrug*
+  size: 54
+
+
